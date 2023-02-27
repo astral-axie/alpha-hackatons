@@ -1,5 +1,3 @@
-# 🎯 Alpha - Hackatons
-A place to build themed Python objects collaboratively. 
+# 📦 Hackatons:
 
-# 📦 Hackaton #1:
-...
+📦 #1 - GraphQL Operation
